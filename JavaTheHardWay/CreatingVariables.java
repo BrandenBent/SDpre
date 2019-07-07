@@ -14,6 +14,7 @@ public class CreatingVariables {
     firstName = "Graham";
     lastName = "Mitchell";
     title = "Mr.";
+    
 
     System.out.println( "The variable x contains " + x );
     System.out.println( "The value " + y + " is stored in the variable y." );
